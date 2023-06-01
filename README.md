@@ -1,3 +1,2 @@
-# Sistemas-Operacionais
-Trabalhos e atividades da matéria S.O. postadas pelo professor Pablo, 
-IFAL-Rio Largo
+# SO
+Trabalhos e atividades da matéria SO(Sistemas Operacionais) postadas pelo professor Pablo, IFAL-Rio Largo
